@@ -1,6 +1,6 @@
 # PrEST standard evaluation script
 
-This repository contains the evaluation script for the PrEST standards for protein inference calibration.
+This repository contains the evaluation script for the PrEST standards for protein inference calibration. Associated data can be downloaded from PRIDE [PXD008425](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD008425).
 
 Usage:
 ```
